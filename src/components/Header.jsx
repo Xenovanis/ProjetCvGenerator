@@ -18,7 +18,7 @@ const Header = () => {
             <li><NavLink to="/" className="nav-link scrollto active" href="#hero">Home</NavLink></li>
             <li><NavLink to="/themes" className="nav-link scrollto" href="#themes">Themes</NavLink></li>
             <li><NavLink to="/about" className="nav-link scrollto" href="#about">Team</NavLink></li>
-            <li><NavLink to="/contact" className="nav-link scrollto" href="#contact">Contact</NavLink></li>
+            <li><NavLink to="/contact" className="nav-link scrollto" href="#Contact">Contact</NavLink></li>
             <li><NavLink to="/getstarted" className="getstarted scrollto" href="#">Get Started</NavLink></li>
           </ul>
           <i className="bi bi-list mobile-nav-toggle"></i>

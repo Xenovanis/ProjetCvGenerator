@@ -7,6 +7,7 @@ import Themes from './components/Themes';
 import About from './components/About';
 import GetStarted from './features/GetStarted';
 
+
 const App = () => {
   return (
     <>
@@ -16,6 +17,7 @@ const App = () => {
         <Route path="/themes" element={<Themes />} />
         <Route path="/about" element={<About />} />
         <Route path="/getstarted" element={<GetStarted/>} />
+       
       </Routes>
     </>
   );
