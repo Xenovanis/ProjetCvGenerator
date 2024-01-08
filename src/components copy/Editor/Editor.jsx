@@ -284,7 +284,7 @@ function Editor(props) {
   const languagesBody = (
     <div className={styles.detail}>
       <div className={styles.column}>
-        <label>List your achievements</label>
+        <label>List your Languages</label>
         <InputControl
           placeholder="Line 1"
           value={values.points ? values.points[0] : ""}

@@ -16,8 +16,9 @@ const About = () => {
 MOHSSIN AMNSOUR <br></br>
 MOHCINE LAAROUBI<br></br>
 EL MONTASSIR AYOUB<br></br>
-MOHAMED BEN TALEB<br></br>
 NASSIM ET-TYZIKY< br></br>
+MOHAMED BEN TALEB<br></br>
+
 
 
 
