@@ -10,7 +10,7 @@ const About = () => {
         <div className="row gx-0">
           <div className="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
             <div className="content">
-              <h3>TEAM 3</h3>
+              <h3>TEAM B</h3>
              
               HASNA ASSEDDEK<br></br>
 MOHSSIN AMNSOUR <br></br>
